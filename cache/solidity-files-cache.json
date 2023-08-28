@@ -37,8 +37,8 @@
       ]
     },
     "/Users/mudassar/Downloads/laptop data/Blockchain/hardhat/contracts/TransferAmount.sol": {
-      "lastModificationDate": 1691665649380,
-      "contentHash": "86fd923b39481941038ece9a5d88ac81",
+      "lastModificationDate": 1692104151662,
+      "contentHash": "bc63be8958905333904326879a3ebbf0",
       "sourceName": "contracts/TransferAmount.sol",
       "solcConfig": {
         "version": "0.8.19",
@@ -68,6 +68,7 @@
         ">=0.8.2 <0.9.0"
       ],
       "artifacts": [
+        "DepositAmount",
         "TransferAmount"
       ]
     }
